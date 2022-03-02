@@ -1,0 +1,21 @@
+* {
+    font-weight: 300 !important;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+}
+
+.flex-fill {
+    flex: 1 !important;
+}
+
+.btn {
+    min-width: 100px;
+}
+
+.modal-body {
+    min-height: 600px;
+}
